@@ -1,4 +1,4 @@
-# Proyecto de Análisis Predictivo del Consumo Energético Residencial
+# Sistema predictivo para la optimización del consumo eléctrico residencial mediante el uso de algoritmos de Machine Learning
 
 Este repositorio contiene el desarrollo completo del proyecto de **análisis predictivo del consumo energético residencial mediante técnicas de machine learning**. El objetivo principal es implementar un sistema que permita optimizar el uso de energía en el hogar mediante la predicción de patrones de consumo basados en datos históricos.
 
